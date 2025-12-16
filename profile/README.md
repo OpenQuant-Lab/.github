@@ -2,7 +2,7 @@
   <img src="https://via.placeholder.com/150/000080/FFFFFF?text=OQL" alt="OpenQuant Lab Logo" width="120" height="120">
   
   # OpenQuant Lab
-  **Quantitative Research Group | [Nom de ton École]**
+  **Quantitative Research Group**
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
